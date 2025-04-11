@@ -11,6 +11,7 @@ We deliver news in a format that's easy to use:
 	- resolved entities (people, organizations, locations)
 
 We scrape over **90,000 sources** worldwide in more than **55 languages**.
+
 Think there's a language we can't handle? Challenge us 🏋️‍♂️ 
 
 Ah, almost forgot — we've got news dating back to **2019**.
